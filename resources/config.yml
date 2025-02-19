@@ -1,0 +1,16 @@
+challenges:
+  floor_is_lava:
+    enabled: true
+    lava_delay: 3  # Seconds before block turns into lava
+  no_jump:
+    enabled: false
+  health_decay:
+    enabled: true
+    damage_interval: 5  # Lose half a heart every 5 seconds
+  random_drops:
+    enabled: true
+  hostile_mobs:
+    enabled: true
+  gravity_reverse:
+    enabled: false
+    interval: 120  # Gravity flips every 2 minutes
